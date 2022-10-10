@@ -1,0 +1,25 @@
+total 64
+drwxr-xr-x 2 root root 4096 Oct 10 14:30 .
+drwxr-xr-x 8 root root  176 Oct 10 00:29 ..
+-rwxr-xr-x 1 root root   32 Oct 10 00:35 0-hello_world
+-rwxr-xr-x 1 root root   33 Oct 10 00:34 0-hello_world~
+-rwxr-xr-x 1 root root   28 Oct 10 00:38 1-confused_smiley
+-rwxr-xr-x 1 root root   27 Oct 10 00:37 1-confused_smiley~
+-rwxr-xr-x 1 root root  306 Oct 10 00:41 2-hellofile
+-rwxr-xr-x 1 root root   28 Oct 10 00:40 2-hellofile~
+-rwxr-xr-x 1 root root   39 Oct 10 00:47 3-twofiles
+-rwxr-xr-x 1 root root    0 Oct 10 00:45 3-twofiles~
+-rwxr-xr-x 1 root root   35 Oct 10 00:48 4-lastlines
+-rwxr-xr-x 1 root root    0 Oct 10 00:47 4-lastlines~
+-rwxr-xr-x 1 root root   35 Oct 10 00:50 5-firstlines
+-rwxr-xr-x 1 root root    0 Oct 10 00:50 5-firstlines~
+-rwxr-xr-x 1 root root   46 Oct 10 00:54 6-third_line
+-rwxr-xr-x 1 root root    0 Oct 10 00:51 6-third_line~
+-rwxr-xr-x 1 root root   65 Oct 10 02:09 7-file
+-rwxr-xr-x 1 root root   68 Oct 10 02:08 7-file~
+-rwxr-xr-x 1 root root   36 Oct 10 14:29 8-cwd_state
+-rwxr-xr-x 1 root root    0 Oct 10 14:27 8-cwd_state~
+-rw-r--r-- 1 root root   57 Oct 10 02:06 -e
+-rw-r--r-- 1 root root    0 Oct 10 14:30 ls_cwd_content
+-rw-r--r-- 1 root root   56 Oct 10 00:30 README.md
+-rw-r--r-- 1 root root    0 Oct 10 02:10 \*\\\x27"Best School"\\x27\\*$\?\*\*\*\*\*:)
